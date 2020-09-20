@@ -1,0 +1,20 @@
+{
+  "header": {
+   "letsplay": "Juguemos Connect4!"
+ },
+  "button": {
+   "restartGame": "Reiniciar Juego"
+ },
+ "turno2": {
+   "display2": "Ahora es el turno del jugador 2"
+ },
+ "turno1": {
+   "display1": "Ahora es el turno del jugador 1"
+  },
+  "ganador1": {
+    "gano1": "Ganador es el jugador 1"
+  },
+  "ganador2": {
+    "gano2": "Ganador es el jugador 2"
+  }
+}

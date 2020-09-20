@@ -1,0 +1,26 @@
+{
+  "header": {
+   "letsplay": "Lets Play Connect4!"
+ },
+
+ "button": {
+  "restartGame": "Restart Game"
+  },
+
+  "turno2": {
+    "display2": "Turn for player 2"
+  },
+
+  "turno1": {
+    "display1": "Turn for player 1"
+  },
+
+  "ganador1": {
+     "gano1": "Player 1 wins"
+   },
+
+   "ganador2": {
+      "gano2": "Player 2 wins"
+   }
+
+}

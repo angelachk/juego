@@ -1,3 +1,11 @@
+
+## Juego Connect4 - Prueba Instituto Humboldt
+
+Connect4! para dos jugadores, las fichas seran amarillas para el jugador 1 y rojas para el juagador2
+Gana el que primero complete una linea de 4 fichas consecutivas en cualquier eje x, y o diagonal.
+
+### Instrucciones generales
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

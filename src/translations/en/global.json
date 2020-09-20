@@ -21,6 +21,9 @@
 
    "ganador2": {
       "gano2": "Player 2 wins"
+   },
+   "empate": {
+     "tie": "It`s a tie!"
    }
 
 }

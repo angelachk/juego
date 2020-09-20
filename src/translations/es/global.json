@@ -16,5 +16,8 @@
   },
   "ganador2": {
     "gano2": "Ganador es el jugador 2"
+  },
+  "empate": {
+    "tie": "Es un empate!"
   }
 }

@@ -184,7 +184,7 @@ class Tablero extends Component {
     } else if (this.state.player) {
       status = <p>{this.props.t('turno2.display2')}</p>;
     } else if (!this.state.winner && this.state.tie) {
-      status = <p>Its a Tie</p>;
+      status = <p>{this.props.t('empate.tie')}</p>;
     } else {
       status = <p> {this.props.t('turno1.display1')}</p>;
     }
